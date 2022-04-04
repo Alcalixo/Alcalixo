@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alcalixo
-- 👀 I’m interested in Anime and Videogames
-- 🌱 I’m currently learning HTML, CSS, JavaScrip, etc.
+- 👋 Hi, I’m @Alcalixo.
+- 👀 I’m interested in Anime and Videogames.
+- 🌱 I’m currently learning Frameworks.
 - 💞️ I’m looking to collaborate on (loading...)
 - 📫 How to reach me instagram.com/alcalixo
 
