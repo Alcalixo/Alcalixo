@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alcalixo.
 - 👀 I’m interested in Anime and Videogames.
-- 🌱 I’m currently learning Frameworks.
-- 💞️ I’m looking to collaborate on (loading...)
+- 🌱 I’m currently learning Frameworks, NetBeans...
+- 💞️ I’m looking to collaborate in the creation of a video game.
 - 📫 How to reach me instagram.com/alcalixo
 
 <!---
