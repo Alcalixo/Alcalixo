@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alcalixo.
 - 👀 I’m interested in Anime and Videogames.
-- 🌱 I’m currently learning Frameworks, NetBeans...
+- 🌱 I’m currently learning JWT in Sprint Boot
 - 💞️ I’m looking to collaborate in the creation of a video game.
 - 📫 How to reach me instagram.com/alcalixo
 
