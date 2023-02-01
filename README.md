@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alcalixo.
 - 👀 I’m interested in Anime and Videogames.
-- 🌱 I’m currently learning JWT in Sprint Boot
-- 💞️ I’m looking to collaborate in the creation of a video game.
-- 📫 How to reach me instagram.com/alcalixo
+- 🌱 I’m currently learning Excel, yes, Excel
+- 💞️ I’m looking to work in software company
+- 📫 _Proximamente_
 
 <!---
 Alcalixo/Alcalixo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
