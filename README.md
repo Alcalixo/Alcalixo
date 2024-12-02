@@ -18,10 +18,17 @@ Puedes ver mi trabajo en mi [portafolio personal](https://portfoliognr-argentina
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 
-## Conectate conmigo
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Rodríguez Gonzalo Nahuel](https://www.linkedin.com/in/rodriguez-gonzalo/)
+## Conéctate conmigo
+<a href="https://www.linkedin.com/in/rodriguez-gonzalo/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  Rodríguez Gonzalo Nahuel
+</a>
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [Alcalixo](https://www.instagram.com/alcalixo/)
+<a href="https://www.instagram.com/alcalixo/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  Alcalixo
+</a>
+
 
 ## Tecnologías Usadas
 
