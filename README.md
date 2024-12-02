@@ -1,12 +1,13 @@
-## :wave: Hey there
+## :wave: Hola a Todos
 
 <img src="https://i.ibb.co/8jdf02c/banner.jpg" alt="Banner">
 
-- :wave: Hi, I’m Rodríguez Gonzalo Nahuel.
-- :floppy_disk: I’m interested in Anime and Videogames.
-- :seedling: I’m currently learning React / NodeJS.
-- :cloud: I’m looking to work in software company.
-- :office: I’m currently working in the administrative area of a drugstore.
+- :wave: Hola, me llamo Rodríguez Gonzalo Nahuel.
+- :mortar_board: Estoy estudiando para ser Contador Público.
+- :floppy_disk: Me interesa el Anime y los Videojuegos.
+- :seedling: Actualmente estoy aprendiendo React / NodeJS.
+- :cloud: Busco trabajo en una empresa para puesto contable o desarrollo de aplicaciones.
+- :office: Actualmente soy administrativo en una Droguería.
 
 
 ## Mi Portafolio
@@ -18,9 +19,9 @@ Puedes ver mi trabajo en mi [portafolio personal](https://portfoliognr-argentina
 
 
 ## Conectate conmigo
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Rodríguez Gonzalo Nahuel](www.linkedin.com/in/rodriguez-gonzalo)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Rodríguez Gonzalo Nahuel](https://www.linkedin.com/in/rodriguez-gonzalo/)
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [Alcalixo](www.instagram.com/alcalixo)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [Alcalixo](https://www.instagram.com/alcalixo/)
 
 ## Tecnologías Usadas
 
